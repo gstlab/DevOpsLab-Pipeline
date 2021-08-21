@@ -12,4 +12,3 @@ describe("Status and content", function () {
     })
     });
   });
-});
